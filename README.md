@@ -35,7 +35,7 @@
 
 - 🧠 Wanna talk tech, collab, or throw ideas? I’m all ears!
 - 📨 Email: `dagmawiheywot96@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/dagmawi-heywot-96j)
+- 💼 LinkedIn: [linkedin.com/in/dagmawi-heywot-96j](https://linkedin.com/in/dagmawi-heywot-96j)
 
 
 > DM, email, or shout into the void – I might just hear you 🧞‍♂️
