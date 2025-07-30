@@ -12,7 +12,7 @@
 
 ### 🧠 Quick Bits About Me
 
-- 🎓 3rd-year CS student @ **Addis Ababa University**
+- 🎓 4rd-year CS student @ **Addis Ababa University**
 - ⚙️ Network junkie & full-stack explorer  
 - 🧪 Love messing with code, breaking things, and fixing them better  
 - 🛠️ Currently crafting: MERN projects + network labs 
